@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Workspace\StickRun\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="D:\Workspace\StickRun\app\build\intermediates\pre-dexed\debug\classes-8a9e01d8626b124f5924bc98257d6e313faf8c13.jar" />
+    </item>
+    <item
+        jar="D:\Android sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\Workspace\StickRun\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-40d2562a50db9364186839a4564c6138a03f8c3a.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\StickRun\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\Workspace\StickRun\app\build\intermediates\pre-dexed\debug\classes-c73b848376e9511b9b8decae43ab01c00511c043.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\StickRun\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\Workspace\StickRun\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-85d138db853d27dfd3078345c39fc27ed3598356.jar" />
+    </item>
+
+</items>
